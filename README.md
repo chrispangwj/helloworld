@@ -1,7 +1,24 @@
-# helloworld
+# HR Tutorial and Handbook
 
-HR tutorial and handbook 
+##Task
 
-Hello! I am a new HR intern. 
-I would like to help document the HR processes and tasks I am learning in an organized way to leave behind a guide that future practitioners can use systematically or as a new HR need arises. 
-I would like to explore Github as a repository and medium for sharing HR knowledge. 
+Document HR processes and tasks to leave behind a guide that future practictioners can use systematically or as new HR needs arise. Use existing videos and tutorials that have been created and create new content. 
+
+
+##Criteria
+
+
+##Summary of Tech Stack 
+
+
+##Functionality 
+
+
+##Design 
+
+
+##Run Locally 
+
+
+##Tech Stack
+
